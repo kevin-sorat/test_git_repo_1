@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "name": "first data asset",
+    "asset_type": "data_asset",
+    "created_at": "2021-02-25T20:21:44Z",
+    "created": 1614284504000,
+    "project_id": "06c8dab8-8e31-4db3-9e02-1a6574b7ac12",
+    "asset_id": "data_asset.f2ca53c5-878b-42f5-9bff-742ee8d78ca7",
+    "sandbox_id": "06c8dab8-8e31-4db3-9e02-1a6574b7ac12",
+    "last_modified": "2021-02-25T20:21:44Z",
+    "asset_attributes": [
+      "data_asset"
+    ],
+    "usage": {
+      "last_update_time": 1614284504000,
+      "last_updated_at": "2021-02-25T20:21:44Z"
+    }
+  },
+  "entity": {
+    "no": "idea"
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "attachment name",
+      "mime": "csv",
+      "object_key": "cars.csv",
+      "object_key_is_read_only": false,
+      "created_at": "2021-02-25T20:27:50Z",
+      "id": "8c96f663-d69e-4d72-ae4d-93dbcd8c5928",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
